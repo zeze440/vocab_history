@@ -1,0 +1,30 @@
+# requirements.txt - 필요한 패키지들
+
+# 핵심 패키지
+pandas>=1.5.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+
+# NLP 패키지
+spacy>=3.4.0
+nltk>=3.8.0
+
+# OpenAI API
+openai>=1.0.0
+
+# 웹 스크래핑 (선택사항)
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# 머신러닝
+scikit-learn>=1.3.0
+
+# 진행률 표시
+tqdm>=4.65.0
+
+# 개발/디버깅 (선택사항)
+ipython>=8.12.0
+jupyter>=1.0.0
+
+# SpaCy 영어 모델 설치 명령어 (별도 실행 필요):
+# python -m spacy download en_core_web_sm

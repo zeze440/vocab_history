@@ -1,0 +1,474 @@
+{
+  "not necessarily:Those phenomena do not necessarily represent sacri:": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.6,
+    "source": "wordnet_enhanced",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "involved in:That's why we die to defend a flag, risk death to :": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.6,
+    "source": "wordnet_enhanced",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "in turn:We are extended through artifacts like a knife or :": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.6,
+    "source": "wordnet_enhanced",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "as if:It is not even correct to say that artifacts rever:": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.6,
+    "source": "wordnet_enhanced",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "bounded:Humans may not be bounded by the biological body i:동사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "biological:Humans may not be bounded by the biological body i:형용사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "extended:We are extended through artifacts like a knife or :동사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "artifacts:We are extended through artifacts like a knife or :명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "biology:We are extended through artifacts like a knife or :명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "correct:It is not even correct to say that artifacts rever:형용사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "critical:In critical ways we are them and they are us:형용사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "defend:That's why we die to defend a flag, risk death to :동사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "pearls:That's why we die to defend a flag, risk death to :명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "involved:That's why we die to defend a flag, risk death to :형용사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "artistic:That's why we die to defend a flag, risk death to :형용사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "phenomena:Those phenomena do not necessarily represent sacri:명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "necessarily:Those phenomena do not necessarily represent sacri:부사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "represent:Those phenomena do not necessarily represent sacri:동사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "sacrifices:Those phenomena do not necessarily represent sacri:명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "dysfunction:Those phenomena do not necessarily represent sacri:명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "typical:Those phenomena do not necessarily represent sacri:형용사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "clearly:Those phenomena do not necessarily represent sacri:부사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "confound:Those phenomena do not necessarily represent sacri:동사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "gravity:Those phenomena do not necessarily represent sacri:명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "knife:We are extended through artifacts like a knife or :명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "drone:We are extended through artifacts like a knife or :명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "reverberate:It is not even correct to say that artifacts rever:동사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "different:It is not even correct to say that artifacts rever:형용사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "separable:It is not even correct to say that artifacts rever:형용사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "death:That's why we die to defend a flag, risk death to :명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "energy reserve:That’s partly why babies sleep all the time ? thei:": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.6,
+    "source": "wordnet_enhanced",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "no less than:In newborns, it’s no less than 65 percent:": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.6,
+    "source": "wordnet_enhanced",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "all the time:That’s partly why babies sleep all the time ? thei:": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.6,
+    "source": "wordnet_enhanced",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "a lot of:That’s partly why babies sleep all the time ? thei:": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.6,
+    "source": "wordnet_enhanced",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "a lot of:Our muscles use even more of our energy, about a q:": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.6,
+    "source": "wordnet_enhanced",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "by far:Actually, per unit of matter, the brain uses by fa:": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.6,
+    "source": "wordnet_enhanced",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "weight:The brain makes up just two percent of our body we:명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "newborns:In newborns, it’s no less than 65 percent:명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "partly:That’s partly why babies sleep all the time ? thei:부사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "exhaust:That’s partly why babies sleep all the time ? thei:동사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "reserve:That’s partly why babies sleep all the time ? thei:명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "actually:Actually, per unit of matter, the brain uses by fa:부사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "organs:Actually, per unit of matter, the brain uses by fa:명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "efficient:But it is also marvelously efficient:형용사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "require:Our brains require only about four hundred calorie:동사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "percent:The brain makes up just two percent of our body we:명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "energy:The brain makes up just two percent of our body we:명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "sleep:That’s partly why babies sleep all the time ? thei:동사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "quarter:Our muscles use even more of our energy, about a q:명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "total:Our muscles use even more of our energy, about a q:명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "matter:Actually, per unit of matter, the brain uses by fa:명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "marvelously:But it is also marvelously efficient:부사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "calories:Our brains require only about four hundred calorie:명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "artifacts:It is not even correct to say that artifacts rever:명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "confounds:Those phenomena do not necessarily represent sacri:동사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "organs:That means that the brain is the most expensive of:명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "percent:In newborns, it’s no less than 65 percent:명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "energy:That’s partly why babies sleep all the time ? thei:명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  },
+  "energy:Our muscles use even more of our energy, about a q:명사": {
+    "synonyms": [],
+    "antonyms": [],
+    "contextual_meaning": "",
+    "confidence": 0.0,
+    "source": "failed",
+    "notes": "GPT 실패, WordNet 사용: 'SynonymAntonymExtractor' object has no attribute '_validate_gpt_result_enhanced'"
+  }
+}
