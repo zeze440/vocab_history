@@ -28,6 +28,11 @@ try:
         safe_string_operation,
         safe_numeric_operation,
     )
+try:
+    import data_loader
+except ImportError:
+    print("⚠️ data_loader 모듈을 찾을 수 없습니다")
+    data_loader = None
 except ImportError:
     print("⚠️ safe_data_utils를 찾을 수 없습니다. 기본 구현을 사용합니다.")
 
